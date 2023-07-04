@@ -1,0 +1,8 @@
+23_07_04 19:22 
+Yesteday, I create a first workflow in action with codeql as security and add this new branch lucianoCircelli-patch-codeql. This action don't run, the write call C# and this forked repository uses C# and PowerShell. 
+I all deleted but remains 3 commits then the branch is always visible in upload repository but any code.
+I don't know the next steps.
+Cloning in local this repository and refresh by dotnet 
+It is possible that repository seek what is implemented before this new motheboard. 
+this forked repository failled much in build action where I don't unterstand very link with upload Azure
+
